@@ -11,7 +11,7 @@
 
 ## INSTALLATION GUIDE
 
-This guide will provide step-by-step instructions on how to install and set up the KQ_SECURITY script for FiveM.
+This guide will provide step-by-step instructions on how to install and set up the kq_rollback script for FiveM.
 
 ### Step 1:
 After downloading the script, unzip the folder and place it in the `resources` directory on your FiveM server.
